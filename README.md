@@ -23,12 +23,12 @@
 
 ---
 
-### 🔭 Currently building
-- 📈 **[Sentiment-Driven Equity Trading Prototype](https://github.com/syk-v1/sentiment-trading-signal)** — NLP signal generation with an honest backtest against a buy-and-hold benchmark · *Python, NLTK/VADER, Streamlit*
-- 🧠 **[LeetCode FSRS Tracker](https://github.com/syk-v1/leetcode-fsrs-tracker)** — spaced-repetition scheduling for interview prep
+### Currently building
+- **[Sentiment-Driven Equity Trading Prototype](https://github.com/syk-v1/sentiment-trading-signal)** — NLP signal generation with an honest backtest against a buy-and-hold benchmark · *Python, NLTK/VADER, Streamlit*
+- **[LeetCode FSRS Tracker](https://github.com/syk-v1/leetcode-fsrs-tracker)** — spaced-repetition scheduling for interview prep
 
-### 🗂️ Previously
-- 🤖 **[hybrid-routing-agent](https://github.com/syk-v1/hybrid-routing-agent)** — routes queries between local and remote LLMs to cut token cost · *Fireworks AI Hackathon*
+### Previously
+- **[hybrid-routing-agent](https://github.com/syk-v1/hybrid-routing-agent)** — routes queries between local and remote LLMs to cut token cost · *Fireworks AI Hackathon*
 
 ---
 
